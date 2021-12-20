@@ -18,8 +18,9 @@ No installation required.
 ## Usage 
 This is not an actual application but rather for tests ONLY. The assignment was to go through HTML and CSS codes and find the bugs errors and get them fixed so that the site is functioning as it supposed to be. The website works perfectly <br>
 Please view deployed Github [https://tringuyen128.github.io/refactor-homework/](https://tringuyen128.github.io/refactor-homework/)
-<img src="./assets/images/screenshot.png">
 <img src="./assets/images/screenshot2.png">
+<img src="./assets/images/screenshot.png">
+
 
 
 ## License 
